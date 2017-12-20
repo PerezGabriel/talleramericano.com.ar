@@ -1,0 +1,596 @@
+#u2105.PamphletThumbSelected
+{
+	background-color: transparent;
+	border-radius: 10px;
+}
+
+#u2100.PamphletThumbSelected,#u2097.PamphletThumbSelected,#u2107.PamphletThumbSelected,#u2101.PamphletThumbSelected,#u2102.PamphletThumbSelected,#u2109.PamphletThumbSelected
+{
+	border-radius: 10px;
+}
+
+#u5993
+{
+	background-color: #203852;
+}
+
+#u8567-4
+{
+	background-color: transparent;
+	line-height: 26px;
+	color: #FFFFFF;
+	font-size: 22px;
+	text-align: right;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#buttonu669
+{
+	border-color: #787878;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu669:hover
+{
+	background-color: #496F95;
+}
+
+#u670-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	letter-spacing: 0px;
+	text-align: center;
+	font-family: open-sans-condensed, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#buttonu669:hover #u670-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu693
+{
+	border-color: #787878;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu669.ButtonSelected,#buttonu693:hover
+{
+	background-color: #496F95;
+}
+
+#u694-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	letter-spacing: 0px;
+	text-align: center;
+	font-family: open-sans-condensed, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#buttonu693:hover #u694-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	font-size: 15px;
+}
+
+#buttonu2539
+{
+	border-color: #787878;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu693.ButtonSelected,#buttonu2539:hover
+{
+	background-color: #496F95;
+}
+
+#u2540-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	letter-spacing: 0px;
+	text-align: center;
+	font-family: open-sans-condensed, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#buttonu2539:hover #u2540-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	font-size: 15px;
+}
+
+#buttonu2541
+{
+	border-color: #787878;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu2539.ButtonSelected,#buttonu2541:hover
+{
+	background-color: #496F95;
+}
+
+#buttonu2541.ButtonSelected
+{
+	background-color: #496F95;
+}
+
+#u2542-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	letter-spacing: 0px;
+	text-align: center;
+	font-family: open-sans-condensed, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#buttonu2541:hover #u2542-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	font-size: 15px;
+}
+
+#u9105-5
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	text-align: right;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u9105-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u9105
+{
+	font-size: 14px;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	line-height: 17px;
+}
+
+#u2078
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2137
+{
+	border-color: #000000;
+	background-color: #355B83;
+	position: relative;
+}
+
+#u2085-4
+{
+	background-color: transparent;
+	color: #8FB3D8;
+	font-size: 14px;
+	text-align: left;
+	font-family: lato, sans-serif;
+	font-weight: 900;
+	position: relative;
+}
+
+#u2088-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 14px;
+	text-align: left;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u2085-4:hover,#u2088-4:hover
+{
+	background-color: transparent;
+}
+
+#u2088-4:hover p
+{
+	color: #8FB3D8;
+	visibility: inherit;
+}
+
+#u2087-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 14px;
+	text-align: left;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u2088-4.MuseLinkActive,#u2087-4:hover
+{
+	background-color: transparent;
+}
+
+#u2088-4.MuseLinkActive p,#u2087-4:hover p
+{
+	color: #8FB3D8;
+	visibility: inherit;
+}
+
+#u2080-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 14px;
+	text-align: left;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u2087-4.MuseLinkActive,#u2080-4:hover
+{
+	background-color: transparent;
+}
+
+#u2080-4.MuseLinkActive
+{
+	background-color: transparent;
+}
+
+#u2087-4.MuseLinkActive p,#u2080-4:hover p
+{
+	color: #8FB3D8;
+	visibility: inherit;
+}
+
+#u2080-4.MuseLinkActive p
+{
+	color: #8FB3D8;
+	visibility: inherit;
+}
+
+#u2084
+{
+	border-color: #000000;
+	background-color: #496F95;
+	position: relative;
+}
+
+#u2077,#u2116
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u2125
+{
+	border-color: #999999;
+	position: relative;
+	background: transparent url("../images/01-divisores-botones-menu-ppal-taller-americano.jpg") no-repeat left top;
+}
+
+#u2125:hover
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	opacity: 0.76;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=76)";
+	filter: alpha(opacity=76);
+}
+
+#u2118
+{
+	border-color: #999999;
+	position: relative;
+	background: transparent url("../images/02-divisores-botones-menu-ppal-taller-americano.jpg") no-repeat left top;
+}
+
+#u2125.MuseLinkActive,#u2118:hover
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	opacity: 0.76;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=76)";
+	filter: alpha(opacity=76);
+}
+
+#u2121
+{
+	border-color: #999999;
+	position: relative;
+	background: transparent url("../images/03-divisores-botones-menu-ppal-taller-americano.jpg") no-repeat left top;
+}
+
+#u2131
+{
+	border-color: #999999;
+	position: relative;
+	background: transparent url("../images/04-divisores-botones-menu-ppal-taller-americano.jpg") no-repeat left top;
+}
+
+#u2135
+{
+	border-color: #999999;
+	position: relative;
+	background: transparent url("../images/05-divisores-botones-menu-ppal-taller-americano.jpg") no-repeat left top;
+}
+
+#u2123
+{
+	border-color: #999999;
+	position: relative;
+	background: transparent url("../images/06-divisores-botones-menu-ppal-taller-americano.jpg") no-repeat left top;
+}
+
+#u2133
+{
+	border-color: #999999;
+	position: relative;
+	background: transparent url("../images/07-divisores-botones-menu-ppal-taller-americano.jpg") no-repeat left top;
+}
+
+#u2121:hover,#u2131:hover,#u2135:hover,#u2123:hover,#u2133:hover
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
+}
+
+#u2097,#u2105,#u2102,#u2109,#u2107,#u2100,#u2101
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	border-radius: 10px;
+}
+
+#u2097:hover,#u2105:hover,#u2102:hover,#u2109:hover,#u2107:hover,#u2100:hover,#u2101:hover
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+#u2091
+{
+	position: absolute;
+	border-color: #999999;
+	background: transparent url("../images/flechita-menu-principal-blanco-izquierda.png") no-repeat left top;
+}
+
+#u2091:hover
+{
+	background: transparent url("../images/flechita-menu-principal-celeste-izquierda.png") no-repeat left top;
+}
+
+#u2094
+{
+	position: absolute;
+	border-color: #999999;
+	background: transparent url("../images/flechita-menu-principal-blanco-derecha.png") no-repeat left top;
+}
+
+#u2094:hover
+{
+	background: transparent url("../images/flechita-menu-principal-celeste-derecha.png") no-repeat left top;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u2207
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u2207:hover
+{
+	border-color: #999999;
+	background-color: transparent;
+}
+
+#u2207.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #496F95;
+}
+
+#u2468-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	letter-spacing: 0px;
+	text-align: center;
+	font-family: open-sans-condensed, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u2085-4:hover p,#u2207:hover #u2468-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u2207.PamphletThumbSelected #u2468-4 p
+{
+	font-size: 15px;
+}
+
+#u3344
+{
+	background-color: #222222;
+}
+
+#u5993_align_to_page,#pamphletu2074,#pamphletu2090,#u2095,#u2206,#u3344_align_to_page
+{
+	position: relative;
+}
+
+#u3348-4
+{
+	background-color: transparent;
+	line-height: 19px;
+	color: #FFFFFF;
+	font-size: 16px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u9107-9,#u3349-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u3350-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u3353-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u3351-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u3352-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u3354-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u3355-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u3356-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u3349-4:hover p,#u3350-4:hover p,#u3353-4:hover p,#u3351-4:hover p,#u3352-4:hover p,#u3354-4:hover p,#u3355-4:hover p,#u3356-4:hover p
+{
+	color: #D6622F;
+	visibility: inherit;
+}
+
+#u3360-4
+{
+	background-color: transparent;
+	line-height: 11px;
+	font-size: 9px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u8568,#u6006,#u2600,#u3346,#u5964,#u5968,#u5966,#u5970,#u3358,#u3361
+{
+	background-color: transparent;
+	position: relative;
+}
+

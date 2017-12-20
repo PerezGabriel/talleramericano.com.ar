@@ -1,0 +1,706 @@
+#u6042.PamphletThumbSelected
+{
+	background-color: transparent;
+	border-radius: 10px;
+}
+
+#u6043.PamphletThumbSelected,#u6039.PamphletThumbSelected,#u6040.PamphletThumbSelected,#u6037.PamphletThumbSelected,#u6041.PamphletThumbSelected,#u6038.PamphletThumbSelected
+{
+	border-radius: 10px;
+}
+
+#u6066
+{
+	background-color: #203852;
+}
+
+#u8575-4
+{
+	background-color: transparent;
+	line-height: 26px;
+	color: #FFFFFF;
+	font-size: 22px;
+	text-align: right;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#buttonu6013
+{
+	border-color: #787878;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu6013:hover
+{
+	background-color: #496F95;
+}
+
+#u6014-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	letter-spacing: 0px;
+	text-align: center;
+	font-family: open-sans-condensed, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#buttonu6013:hover #u6014-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu6015
+{
+	border-color: #787878;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu6013.ButtonSelected,#buttonu6015:hover
+{
+	background-color: #496F95;
+}
+
+#u6016-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	letter-spacing: 0px;
+	text-align: center;
+	font-family: open-sans-condensed, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#buttonu6015:hover #u6016-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	font-size: 15px;
+}
+
+#buttonu6058
+{
+	border-color: #787878;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu6015.ButtonSelected,#buttonu6058:hover
+{
+	background-color: #496F95;
+}
+
+#u6059-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	letter-spacing: 0px;
+	text-align: center;
+	font-family: open-sans-condensed, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#buttonu6058:hover #u6059-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	font-size: 15px;
+}
+
+#buttonu6060
+{
+	border-color: #787878;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu6058.ButtonSelected,#buttonu6060:hover
+{
+	background-color: #496F95;
+}
+
+#buttonu6060.ButtonSelected
+{
+	background-color: #496F95;
+}
+
+#u6061-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	letter-spacing: 0px;
+	text-align: center;
+	font-family: open-sans-condensed, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#buttonu6060:hover #u6061-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	font-size: 15px;
+}
+
+#u6026
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u6052
+{
+	border-color: #000000;
+	background-color: #355B83;
+	position: relative;
+}
+
+#u6055-4
+{
+	background-color: transparent;
+	color: #8FB3D8;
+	font-size: 14px;
+	text-align: left;
+	font-family: lato, sans-serif;
+	font-weight: 900;
+	position: relative;
+}
+
+#u6054-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 14px;
+	text-align: left;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u6055-4:hover,#u6054-4:hover
+{
+	background-color: transparent;
+}
+
+#u6054-4:hover p
+{
+	color: #8FB3D8;
+	visibility: inherit;
+}
+
+#u6049-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 14px;
+	text-align: left;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u6054-4.MuseLinkActive,#u6049-4:hover
+{
+	background-color: transparent;
+}
+
+#u6054-4.MuseLinkActive p,#u6049-4:hover p
+{
+	color: #8FB3D8;
+	visibility: inherit;
+}
+
+#u6053-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 14px;
+	text-align: left;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u6049-4.MuseLinkActive,#u6053-4:hover
+{
+	background-color: transparent;
+}
+
+#u6049-4.MuseLinkActive p,#u6053-4:hover p
+{
+	color: #8FB3D8;
+	visibility: inherit;
+}
+
+#u6053-4.MuseLinkActive p
+{
+	color: #8FB3D8;
+	visibility: inherit;
+}
+
+#u6048
+{
+	border-color: #000000;
+	background-color: #496F95;
+	position: relative;
+}
+
+#u6035
+{
+	border-color: #999999;
+	position: relative;
+	background: transparent url("../images/01-divisores-botones-menu-ppal-taller-americano.jpg") no-repeat left top;
+}
+
+#u6035:hover
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	opacity: 0.76;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=76)";
+	filter: alpha(opacity=76);
+}
+
+#u6033
+{
+	border-color: #999999;
+	position: relative;
+	background: transparent url("../images/02-divisores-botones-menu-ppal-taller-americano.jpg") no-repeat left top;
+}
+
+#u6035.MuseLinkActive,#u6033:hover
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	opacity: 0.76;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=76)";
+	filter: alpha(opacity=76);
+}
+
+#u6032
+{
+	border-color: #999999;
+	position: relative;
+	background: transparent url("../images/03-divisores-botones-menu-ppal-taller-americano.jpg") no-repeat left top;
+}
+
+#u6029
+{
+	border-color: #999999;
+	position: relative;
+	background: transparent url("../images/04-divisores-botones-menu-ppal-taller-americano.jpg") no-repeat left top;
+}
+
+#u6031
+{
+	border-color: #999999;
+	position: relative;
+	background: transparent url("../images/05-divisores-botones-menu-ppal-taller-americano.jpg") no-repeat left top;
+}
+
+#u6030
+{
+	border-color: #999999;
+	position: relative;
+	background: transparent url("../images/06-divisores-botones-menu-ppal-taller-americano.jpg") no-repeat left top;
+}
+
+#u6034
+{
+	border-color: #999999;
+	position: relative;
+	background: transparent url("../images/07-divisores-botones-menu-ppal-taller-americano.jpg") no-repeat left top;
+}
+
+#u6032:hover,#u6029:hover,#u6031:hover,#u6030:hover,#u6034:hover
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
+}
+
+#u6037,#u6042,#u6038,#u6039,#u6043,#u6040,#u6041
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	border-radius: 10px;
+}
+
+#u6037:hover,#u6042:hover,#u6038:hover,#u6039:hover,#u6043:hover,#u6040:hover,#u6041:hover
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+#u6044
+{
+	position: absolute;
+	border-color: #999999;
+	background: transparent url("../images/flechita-menu-principal-blanco-izquierda.png") no-repeat left top;
+}
+
+#u6044:hover
+{
+	background: transparent url("../images/flechita-menu-principal-celeste-izquierda.png") no-repeat left top;
+}
+
+#u6047
+{
+	position: absolute;
+	border-color: #999999;
+	background: transparent url("../images/flechita-menu-principal-blanco-derecha.png") no-repeat left top;
+}
+
+#u6047:hover
+{
+	background: transparent url("../images/flechita-menu-principal-celeste-derecha.png") no-repeat left top;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u6019
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u6019:hover
+{
+	border-color: #999999;
+	background-color: transparent;
+}
+
+#u6019.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #496F95;
+}
+
+#u6020-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	letter-spacing: 0px;
+	text-align: center;
+	font-family: open-sans-condensed, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u6055-4:hover p,#u6019:hover #u6020-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u6019.PamphletThumbSelected #u6020-4 p
+{
+	font-size: 15px;
+}
+
+#u9108-5
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	text-align: right;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u9108-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u9108
+{
+	font-size: 14px;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	line-height: 17px;
+}
+
+#u8581
+{
+	background-color: #203852;
+	opacity: 0.88;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=88)";
+	filter: alpha(opacity=88);
+	position: relative;
+}
+
+#u8590
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u6053-4.MuseLinkActive,#u8590:hover
+{
+	background-color: transparent;
+}
+
+#u8591
+{
+	background-color: #D6622F;
+	position: relative;
+}
+
+#u8592-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	position: relative;
+}
+
+#u8601
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u8590.PamphletThumbSelected,#u8601:hover
+{
+	background-color: transparent;
+}
+
+#u8602
+{
+	background-color: #D6622F;
+	position: relative;
+}
+
+#u8603-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	position: relative;
+}
+
+#u6025,#u6028,#u8593,#u8598,#u8613
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u8594,#u8599,#u8614
+{
+	border-style: none;
+	border-color: #999999;
+	background-color: #4C81BB;
+	position: relative;
+}
+
+#u8616
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u8601.PamphletThumbSelected,#u8616:hover
+{
+	background-color: transparent;
+}
+
+#u8616.PamphletThumbSelected
+{
+	background-color: transparent;
+}
+
+#u8617
+{
+	background-color: #D6622F;
+	position: relative;
+}
+
+#u8618-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	position: relative;
+}
+
+#u2779
+{
+	background-color: #222222;
+}
+
+#u6066_align_to_page,#pamphletu6017,#pamphletu6027,#u6036,#u6018,#pamphletu8582,#u8589,#pamphletu8595,#u8600,#pamphletu8608,#u8615,#u2779_align_to_page
+{
+	position: relative;
+}
+
+#u2934
+{
+	background-color: #C0C0C0;
+	position: relative;
+}
+
+#u6070-4
+{
+	background-color: transparent;
+	line-height: 19px;
+	color: #FFFFFF;
+	font-size: 16px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u9116-9,#u6071-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u6072-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u6075-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u6073-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u6074-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u6076-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u6077-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u6078-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u6071-4:hover p,#u6072-4:hover p,#u6075-4:hover p,#u6073-4:hover p,#u6074-4:hover p,#u6076-4:hover p,#u6077-4:hover p,#u6078-4:hover p
+{
+	color: #D6622F;
+	visibility: inherit;
+}
+
+#u3373-4
+{
+	background-color: transparent;
+	line-height: 11px;
+	font-size: 9px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u8576,#u6062,#u6050,#u2777,#u5976,#u5980,#u5978,#u5982,#u6068,#u3371,#u3374
+{
+	background-color: transparent;
+	position: relative;
+}
+

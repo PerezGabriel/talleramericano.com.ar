@@ -1,0 +1,52 @@
+var itemsSlider = [
+    '../images/01-video-cerramientos-movil.jpg',
+    '../images/02-video-cerramientos-movil.jpg',
+    '../images/03-video-cerramientos-movil.jpg',
+];
+
+armarSlider();
+
+var verMas = 6;
+  var imagenes = [
+    '../images/a2-cerramintos.jpg',
+    '../images/a3-cerramintos.jpg',
+    '../images/a5-cerramintos.jpg',
+    '../images/a6-cerramintos.jpg',
+    '../images/a8-cerramintos.jpg',
+    '../images/a9-cerramintos.jpg',
+    '../images/a10-cerramintos.jpg',
+    '../images/a11-cerramintos.jpg',
+    '../images/a12-cerramintos.jpg',
+    '../images/a13-cerramintos.jpg',
+    '../images/a14-cerramintos.jpg',
+    '../images/a15-cerramintos.jpg',
+    '../images/a16-cerramintos.jpg',
+    '../images/a17-cerramintos.jpg',
+    '../images/a18-cerramintos.jpg',
+    '../images/a19-cerramintos.jpg',
+    '../images/a20-cerramintos.jpg',
+    '../images/a21-cerramintos.jpg',
+    '../images/a22-cerramintos.jpg',
+    '../images/a23-cerramintos.jpg',
+    '../images/a24-cerramintos.jpg',
+    '../images/a25-cerramintos.jpg',
+    '../images/a26-cerramintos.jpg',
+    '../images/a29-cerramintos.jpg',
+    '../images/a32-cerramintos.jpg',
+    '../images/a33-cerramintos.jpg',
+    '../images/a37-cerramintos.jpg',
+    '../images/a38-cerramintos.jpg',
+    '../images/a39-cerramintos.jpg',
+    '../images/a41-cerramintos.jpg',
+    '../images/a42-cerramintos.jpg',
+    '../images/a45-cerramintos.jpg',
+    '../images/a46-cerramintos.jpg',
+    '../images/a48-cerramintos.jpg',
+    '../images/a50-cerramintos.jpg',
+    '../images/a51-cerramintos.jpg',
+    '../images/a52-cerramientos.jpg',
+    '../images/a53-cerramintos.jpg',
+    '../images/a54-cerramintos.jpg',
+    '../images/a55-cerraminetos.jpg',
+];
+crearImagenes();
