@@ -5,11 +5,11 @@ $(function(){
 
         $("#enviarConsulta").click(function () {
         if($("#nombre").attr("value").trim() == ""){
-          alert("Es necesario nombre");
+          alert("Es necesario un nombre");
           return false;
         }
-        if($("#contacto").attr("value").trim() == ""){
-          alert("Es necesario mail o telefono");
+        if(($("#contacto").attr("value").trim() == "") && ($("#telefono").attr("value").trim() == "")){
+          alert("Es necesario mail o telefono para poder responder su consuta.");
           return false;
         }
 
@@ -17,11 +17,15 @@ $(function(){
           alert("Es necesario una consulta");
           return false;
         }
+        $("#enviarConsulta").attr("disabled","disabled");
+        $("#enviarConsulta").attr("html","Enviando...");
 
-        $.post('http://cerramientostechos.com.ar/mailer.php', {
+        $.post('http://talleramericano.com.ar/mailer.php', {
             accion: 'consulta-rapida',
+            pagina_visitada: $("#nombre").attr("nombrePagina"),
             nombre: $("#nombre").attr("value"),
             contacto: $("#contacto").attr("value"),
+            telefono: $("#telefono").attr("value"),
             consulta: $("#consulta").attr("value"),
             },
             function(data)

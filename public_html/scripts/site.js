@@ -15,43 +15,45 @@ $(function(){
         $("#botonVerMasImagenes").hide();
     });
 
-    $("#enviarConsulta").click(function () {
+$("#enviarConsulta").click(function () {
         if($("#nombre").attr("value").trim() == ""){
           alert("Es necesario nombre");
           return false;
         }
-        if($("#contacto").attr("value").trim() == ""){
-          alert("Es necesario mail o telefono");
+         if(($("#contacto").attr("value").trim() == "") && ($("#telefono").attr("value").trim() == "")){
+          alert("Es necesario mail o telefono para poder responder su consuta.");
           return false;
-        }
+        }     
 
         if($("#consulta").attr("value").trim() == ""){
           alert("Es necesario una consulta");
           return false;
         }
-
+/*
         function avisoFlat (msg) {
             msg +=". Datos enviados:";
             msg += "Nombre:" + $("#nombre").attr("value");
+            msg += "Telefono: " + $("#telefono").attr("value");
             msg += "Contacto:" + $("#contacto").attr("value");
             msg += "Consulta:" + $("#consulta").attr("value");
-
-            $.post('mailFlat.php', {
+            $.post('mailerFlat.php', {
                 msg:msg
                 },
                 function(data)
                 {
                 });
         }
-
+*/
         $("#enviarConsulta").attr("disabled","disabled");
         $("#enviarConsulta").html("Enviando...");
 
         $.post('./mailer.php', {
             accion: 'consulta-rapida',
-            nombre: $("#nombre").attr("value"),
+            nombre:     $("#nombre").attr("value"),
+            telefono: $("#telefono").attr("value"),
             contacto: $("#contacto").attr("value"),
             consulta: $("#consulta").attr("value"),
+            pagina_visitada: $("#nombre").attr("nombrePagina"),
             },
             function(data)
             {
@@ -64,9 +66,9 @@ $(function(){
               $(".formulario-simple .mensaje-ok p").html("Su consulta fue enviada. <br/>La responderemos a la brevedad.");
               $(".formulario-simple .mensaje-ok").show();
               $(".formulario-simple .controles").hide();
-                if(!data.status){
+               /* if(!data.status){
                     avisoFlat("status incorrecto");
-                }
+                }*/
             })
             .fail(function(data){
                 $(".formulario-simple .mensaje-error p").html("No hay conexion a internet.<br/>Intentar nuevamente más tarde.");
