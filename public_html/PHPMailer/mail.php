@@ -40,7 +40,7 @@ function mail_html($to,$subject,$messageContent,$textPlain,$replyTo,$from, $char
 	}else{
 		$mail->addAddress($to);
 	}
-	$mail->AddReplyTo($replyTo);
+	$mail->AddReplyTo($_POST['contacto']);
 
 	$mail->IsHTML(true);                                  // set email format to HTML
 
