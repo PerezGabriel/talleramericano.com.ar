@@ -20,7 +20,7 @@ $(function(){
         $("#enviarConsulta").attr("disabled","disabled");
         $("#enviarConsulta").attr("html","Enviando...");
 
-        $.post('http://talleramericano.com.ar/mailer.php', {
+        $.post('http://cerramientostechos.com.ar/mailer.php', {
             accion: 'consulta-rapida',
             pagina_visitada: $("#nombre").attr("nombrePagina"),
             nombre: $("#nombre").attr("value"),
@@ -32,12 +32,13 @@ $(function(){
             {
             })
             .done(function(data){
-                if(data.status == 1){
-                  $(".formulario-simple .mensaje-ok").toggle();
-                  $(".formulario-simple .controles").toggle();
-                }else{
-                  $(".formulario-simple .mensaje-error").toggle();
-                  $(".formulario-simple .controles").toggle();
+
+        if(data.status == 1){
+            $(".formulario-simple .mensaje-ok").toggle();
+            $(".formulario-simple .controles").toggle();
+        }else{
+            $(".formulario-simple .mensaje-error").toggle();
+            $(".formulario-simple .controles").toggle();
                 }
             })
             .fail(function(data){

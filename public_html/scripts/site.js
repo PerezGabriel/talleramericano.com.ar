@@ -1,5 +1,5 @@
 $(function(){
-    var cantidadVerMas = 9;
+    var cantidadVerMas = 12;
     $(".grupo3imagenes").each(function (index,el) {
         if(index>=(cantidadVerMas / 3) ){
             $(el).hide();
@@ -29,21 +29,7 @@ $("#enviarConsulta").click(function () {
           alert("Es necesario una consulta");
           return false;
         }
-/*
-        function avisoFlat (msg) {
-            msg +=". Datos enviados:";
-            msg += "Nombre:" + $("#nombre").attr("value");
-            msg += "Telefono: " + $("#telefono").attr("value");
-            msg += "Contacto:" + $("#contacto").attr("value");
-            msg += "Consulta:" + $("#consulta").attr("value");
-            $.post('mailerFlat.php', {
-                msg:msg
-                },
-                function(data)
-                {
-                });
-        }
-*/
+
         $("#enviarConsulta").attr("disabled","disabled");
         $("#enviarConsulta").html("Enviando...");
 
@@ -59,19 +45,14 @@ $("#enviarConsulta").click(function () {
             {
             })
             .done(function(data){
-                console.log("data = "); console.log(data);
-              // $(".formulario-simple .mensaje-ok").show();
-              // $(".formulario-simple .controles").hide();
-                
-              $(".formulario-simple .mensaje-ok p").html("Su consulta fue enviada. <br/>La responderemos a la brevedad.");
+                console.log("data = "); console.log(data);                
+              $(".formulario-simple .mensaje-ok p").html("Gracias por enviar su consulta. <br/>La responderemos a la brevedad.");
               $(".formulario-simple .mensaje-ok").show();
               $(".formulario-simple .controles").hide();
-               /* if(!data.status){
-                    avisoFlat("status incorrecto");
-                }*/
             })
             .fail(function(data){
-                $(".formulario-simple .mensaje-error p").html("No hay conexion a internet.<br/>Intentar nuevamente más tarde.");
+                console.log("data = "); console.log(data);
+                $(".formulario-simple .mensaje-error p").html("Su consulta pudo no haberse enviado.<br/>");
                 $(".formulario-simple .mensaje-error").show();
                 $(".formulario-simple .controles").hide();
             })
