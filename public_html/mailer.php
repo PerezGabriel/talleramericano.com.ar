@@ -24,7 +24,7 @@ $cont = $contactoData;
 
 $asunto = $momento;
 $from = "consultaweb@cerramientostechos.com.ar";
-$to = "talleramericanoweb@gmail.com, gabofunebre@gmail.com";
+$to = "talleramericanoweb@gmail.com";
 $status = @mail_html(
   $to,
   $asunto,
